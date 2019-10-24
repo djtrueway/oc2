@@ -1,0 +1,220 @@
+# Translation of Plugins - Ocean Social Sharing - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Ocean Social Sharing - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-12 10:24:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Ocean Social Sharing - Stable (latest release)\n"
+
+#: ocean-social-sharing.php:269
+msgid "No Buttons in the Content"
+msgstr "Aucun bouton dans le contenu"
+
+#: template/social-share.php:404
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: template/social-share.php:384
+msgid "Share on WhatsApp"
+msgstr "Partager sur WhatsApp"
+
+#: ocean-social-sharing.php:352
+msgid "Styling"
+msgstr "Mise en forme"
+
+#: ocean-social-sharing.php:337
+msgid "Twitter Username"
+msgstr "Nom d’utilisateur Twitter"
+
+#: ocean-social-sharing.php:268
+msgid "Before & After the Content"
+msgstr "Avant & après le contenu"
+
+#: ocean-social-sharing.php:267
+msgid "After the Content"
+msgstr "Après le contenu"
+
+#: ocean-social-sharing.php:266
+msgid "Before the Content"
+msgstr "Avant le contenu"
+
+#: ocean-social-sharing.php:260
+msgid "Position"
+msgstr "Position"
+
+#: template/social-share.php:372
+msgid "Viadeo"
+msgstr "Viadeo"
+
+#: template/social-share.php:351
+msgid "Share on Viadeo"
+msgstr "Partager sur Viadeo"
+
+#: template/social-share.php:339
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: template/social-share.php:324
+msgid "Share on Tumblr"
+msgstr "Partager sur Tumblr"
+
+#: template/social-share.php:312
+msgid "Reddit"
+msgstr "Reddit"
+
+#: template/social-share.php:289
+msgid "Share on Reddit"
+msgstr "Partager sur Reddit"
+
+#: template/social-share.php:277
+msgid "VK"
+msgstr "VK"
+
+#: template/social-share.php:267
+msgid "Share on VK"
+msgstr "Partager sur VK"
+
+#: template/social-share.php:255
+msgid "Viber"
+msgstr "Viber"
+
+#: template/social-share.php:224
+msgid "Share on Viber"
+msgstr "Partager sur Viber"
+
+#: template/social-share.php:212
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: template/social-share.php:187
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: template/social-share.php:158
+msgid "Google+"
+msgstr "Google+"
+
+#: template/social-share.php:132
+msgid "Facebook"
+msgstr "Facebook"
+
+#: template/social-share.php:109
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ocean-social-sharing.php:435
+msgid "Minimal Style: Color"
+msgstr "Style minimal : couleur"
+
+#: ocean-social-sharing.php:420
+msgid "Minimal Style: Background Color"
+msgstr "Style minimal : couleur d’arrière-plan"
+
+#: ocean-social-sharing.php:405
+msgid "Minimal Style: Borders Color"
+msgstr "Style minimal : couleur des bordures"
+
+#: ocean-social-sharing.php:389
+msgid "Add a custom border radius. px - em - %."
+msgstr "Ajouter un rayon de bordure personnalisé. px - em - %."
+
+#: ocean-social-sharing.php:388
+msgid "Border Radius"
+msgstr "Rayon de bordure"
+
+#: ocean-social-sharing.php:375
+msgid "Dark"
+msgstr "Foncé"
+
+#: ocean-social-sharing.php:374
+msgid "Colored"
+msgstr "Coloré"
+
+#: ocean-social-sharing.php:373
+msgid "Minimal"
+msgstr "Minimal"
+
+#: ocean-social-sharing.php:367
+msgid "Style"
+msgstr "Style"
+
+#: ocean-social-sharing.php:324
+msgid "Top"
+msgstr "Supérieur"
+
+#: ocean-social-sharing.php:323
+msgid "Side"
+msgstr "Côté"
+
+#: ocean-social-sharing.php:317
+msgid "Heading Position"
+msgstr "Position de titrage"
+
+#: ocean-social-sharing.php:300
+msgid "Sharing Heading"
+msgstr "Titrage de partage"
+
+#: ocean-social-sharing.php:283
+msgid "Add Social Name"
+msgstr "Ajouter le nom social"
+
+#. Author URI of the plugin
+msgid "https://oceanwp.org/"
+msgstr "https://oceanwp.org/"
+
+#. Author of the plugin
+msgid "OceanWP"
+msgstr "OceanWP"
+
+#. Description of the plugin
+msgid "A simple plugin to add social share buttons to your posts."
+msgstr "Une extension simple pour ajouter des boutons de partage social à vos articles."
+
+#. Plugin URI of the plugin
+msgid "https://oceanwp.org/extension/ocean-social-sharing/"
+msgstr "https://oceanwp.org/extension/ocean-social-sharing/"
+
+#. Plugin Name of the plugin
+msgid "Ocean Social Sharing"
+msgstr "Ocean Social Sharing"
+
+#: template/social-share.php:199
+msgid "Share on LinkedIn"
+msgstr "Partager sur LinkedIn"
+
+#: template/social-share.php:170
+msgid "Share on Pinterest"
+msgstr "Partager sur Pinterest"
+
+#: template/social-share.php:144
+msgid "Share on Google+"
+msgstr "Partager sur Google+"
+
+#: template/social-share.php:121
+msgid "Share on Facebook"
+msgstr "Partager sur Facebook"
+
+#: template/social-share.php:99
+msgid "Share on Twitter"
+msgstr "Partager sur Twitter"
+
+#: ocean-social-sharing.php:294
+msgid "Please Share This"
+msgstr "Veuillez partager cela"
+
+#: ocean-social-sharing.php:232
+msgid "Sharing Buttons"
+msgstr "Boutons de partage"
+
+#: ocean-social-sharing.php:207
+msgid "Social Sharing"
+msgstr "Partage social"
+
+#: ocean-social-sharing.php:132 ocean-social-sharing.php:141
+msgid "Cheatin&#8217; huh?"
+msgstr "Quelque chose s’est mal passé ?"
