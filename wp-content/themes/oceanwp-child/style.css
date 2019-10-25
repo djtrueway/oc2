@@ -1,0 +1,61 @@
+/*
+Theme Name: oceanWP-child
+Description: Une description de votre thème
+Author: peterson et saint-aime
+Author URI: https://www.votre-domaine.fr
+Template: oceanwp
+Version: 1.7.1
+*/
+
+/**
+ * css me
+ * 
+**/
+
+.wpl-powered-by-realtyna {
+    display: none; 
+}
+
+h1{
+    text-align: center; 
+}
+
+.wpl_prp_container_content {
+    margin: 5%;
+}
+
+#site-header{
+	background-color :#d8d8d0;
+}
+
+#footer-widgets, #footer-bottom{
+	background-color :#d8d8d0;
+	color:#000;
+}
+
+
+.bxslider li img {
+	padding:25px;
+    margin: 0 auto;
+    display: block;
+    height: 350px;
+	width:70%;
+}
+
+.wpl_prp_show_container .tabs_container {
+    border-bottom: 4px solid #666;
+    padding: 2%;
+}
+
+/** change the button size **/
+#wpforms-submit-352{
+  padding: 2%;
+	width:100%;
+	border-radius: 30px
+}
+
+#wpforms-submit-581{
+    padding: 2%;
+    width:100%;
+		border-radius: 30px
+}
