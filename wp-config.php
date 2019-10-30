@@ -22,23 +22,8 @@
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'bitnami_wordpress' );
 
-/** setting for production 
- * MySQL database username
- * define( 'DB_USER', 'bn_wordpress' );
- * 
- * MySQL database password
- * define( 'DB_PASSWORD', 'b1c599ea7f' );
- * 
- * 
- * MySQL hostname
- * define( 'DB_HOST', 'localhost:3306' );
-*/
-
-/** MySQL database username */
-define( 'DB_USER', 'root' );
-
-/** MySQL database password */
-define( 'DB_PASSWORD', 'root' );
+  define( 'DB_USER', 'bn_wordpress' );
+  define( 'DB_PASSWORD', 'b1c599ea7f' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost:3306' );
