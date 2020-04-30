@@ -50,7 +50,7 @@
     "identity-obj-proxy": "3.0.0",
     "import-glob-loader": "^1.1.0",
     "jest": "22.1.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "lodash": "4.17.5",
     "node-sass": "^4.9.2",
     "object-assign": "4.1.1",
